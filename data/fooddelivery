@@ -1,0 +1,225 @@
+Key business metrics or performance metrics (KPIs) that you would like to monitor for a food delivery service? (Enter minimum three)
+on time delivery , failed payment , ratings stats(by rider , by user) , resto. rating 
+Cost , Distance, Type of food, frequency of certain order types, Storage type, manpower.
+"1. Delivery time
+2. Service area
+3. Customer's taste preference "
+"1. number of completed deliveries
+2. Average cost of delivery
+3. Average time per delivery"
+Delivery time, Order amount and frequency per area, Feedback after servicing
+"1) Number of order based on weekdays and weekends
+2)frequency of Choice of food: North Indian / South Indian / International Cuisine etc
+3) Food quality rating
+"
+"1.Restaurant rating (out of 5 star)
+2.Average delivery time( in minutes)
+3. Customer review for Food quality (out of 5 star)
+4.Average number of orders per month
+5.Most ordered item
+6.Delivery boy rating(out of 5 star)
+7.Busiest hour in a week ( eg. 9 to 10 pm on Sunday)
+8. If it's nth order of customer from beginning, what's n?
+"
+"1. Area-wise delivery statistics to determine restaurant collaboration
+2. Age group Statistics for better offers.
+3. Restaurant to destination delivery time for proper delivery time estimation "
+"I would go for for;
+1) Vendor delivery performance (raw material)
+2) Order to Delivery performance
+3) Warranty cost i.e. Return rate 
+4) Pre dispatch inspection score
+5) Number of customers reviews vs total sales
+6) competitor's price vs Company's price per category of food
+7) customer reviews per category of food (If the business is digitised) 
+8) Incoming quality scores of the vendors
+9) Employee attrition rate
+10) Food Stock vs defined stocking target
+11) 5-S / cleanliness score-card"
+"1. Frequency of adding food items to the cart.
+2. Deleting the added food items from the cart.
+3. Everyday Geo location of the mobile in which the application is installed."
+"1. Average Delivery Time
+2. Frequency of order locations
+3. Order Frequency by age
+4. Order frequency by time of order
+5. Frequency of complaints
+6. Order size by age"
+location, spend, payment type, discount, orders, restaurant popularity, revenue, profit, customer acquisition cost
+"1. Total deliveries; hourly, daily, weekly, monthly.
+2. Delivery time; duration for dispatch.
+3. Customer rating of delivery.
+4. Customer attrition; customer refusal to reuse delivery service.
+5. Cost and profit per delivery.
+7. Duration of meal orders; how long it takes an order to be ready for delivery.
+8. Dispatch delivery routes.
+9. Cost of order/meals.
+10. Customer retention."
+"1) Food Delivery on Time vs Food delivered late.
+2) Customer Care Helpline visitorsâ Happy vs Sad Customers.
+3) Assignment of delivery agent to deliver food  done quickly vs late.
+4) New Users and retained Users on web /App Check, Month on Month basis.
+5) Check on prices / Offers of our Competitors and impact on our product."
+"1. Average delivery time
+2. Meal Rating
+3. Basket size
+4. Average distance per order"
+"1) Delivery Distance
+2) Delivery Time
+3) No. of orders per day per customer
+4) Rating of delivery partner
+5) Rating of food
+6) Average time spent on the app"
+"1.food and delivery quality 
+2.Repeated customers list
+3.Feedbacks from customers
+4. Alternatives to achieve fast delivery 
+5.packaging strategy 
+
+"
+Customer support, Delivery Speed and reliability, Hygienic food and proper packaging, Employee behaviour, A proper rating system, Count of recurring orders, Customer feedback and regular surveys
+Delivery time, customer service, customer feedback, hygienic food and proper packaging,   employee behaviour with rating, number of recurring orders. 
+Time, customer support service, feedback of customer, hygienic food and packaging, measuring employee behaviour by rating, count of recurring order
+"1. Customer satisfaction metrics: Customer rating system, customer reviews, feedback forms etc
+2.Driver performance metrics: time spent on loading, at customers place, on break, at the restaurant etc. Average speed, distance, time between deliveries etc (will help in route optimisation)
+3. Monitoring fleet data: driver time, time on site, average delivery time (considering average delivery distance) etc.
+4. Revenue metrics across the board: Average order value, average expenditure on an order (by driver and organisation), delivery times per region, customer satisfaction ratio etc.
+5. Data on POC (Proof of concept) efficacy: equip POC with data measurement capabilities to calculate success ratio, operational efficiency, auto dispatch rates, orders per driver and most importantly adoption ratio of POC."
+"Number of food order deliveries per day/ month/ year 
+Delivery ontime monitoring
+Order Location monitoring
+Count of particular restaurant deliveries 
+Reviews and feedback of the customers
+No of repeating customers
+Offers of the competitors 
+Employee satisfaction"
+"1. Sales revenue
+2. Sales growth from quarter to quarter 
+3. Monthly website traffic
+4. High demand and low demand period
+5. Customer churn and retention rate
+"
+"1) List of the restaurant which has the highest number of food orders.
+
+2) Traffic data.
+
+3) List of restaurant which has the highest number of food cancelling order.
+
+"
+"1) Customer Retention (Area Wise)
+2) Order Timelines ( Order click on the App to receiving the order) 
+3) Revenue per store, region "
+"1.Speed of Delivery
+  - Average time per customer
+  - Average Delay
+  - Time of processing the order
+
+2. Rating by customer
+3. Order amount
+4. Frequency
+5  Favourite/ Top restaurant 
+6. Cancelled Orders
+    "
+"1. Average Delivery Speed/Time
+2. Customer Satisfaction Rate
+3. Order Volume and Revenue Per restaurant 
+4. Return Orders per restaurant
+5.Online Reviews"
+"Food delivery company involves multiple parties which are as follows operator of the platform, restaurants, drivers, as well as customers.So its important to track company wide platform KPI. 
+1) Attrition rate. (this should be last point I guess )
+2) Total amount of orders.
+3) Avg. no. of deliveries per hour.
+4) Avg. profit per delivery 
+5) Average Order Duration = Sum Of Delivery Time Ã· Total Amount Of Orders
+6) Percentage Driver On Order per driver on Idle. The goal is to maximize the amount of drivers on order and minimize the drivers that are waiting for one.
+7) customer feedbacks and how fast they being resolved "
+"There are several important factors that impacts the food delivery business in terms of business performance and customer satisfaction.
+-- For business performance:
+1. Total number of orders
+2. Average profit per delivery
+3. Driver and restaurant KPIs
+
+-- For customer satisfaction:
+1. Average order duration
+2. Percentage of driver is on order/ idle
+3. Customer KPIs
+4. Number of support tickets."
+Daily orders, frequency of orders per customer,  locality of the order, number of cancellations, delivery time, popular restaurants, popular dishes, average order value, most frequent order value, popular orders based on a particular restaurant, time of order, feedback from delivery partners.
+cost per order, revenue per order, gross revenue, error rate, delivery time per order, preparation time per order, number of repeat customers, number of repeat delivery agents, number of restaurants, number of restaurants onboarded in X time, number of new customers onboarded in X time,  customer rating, delivery agent feedback/rating, average revenue per order, average size of each order, market share and comparison of all above mentioned data points with respect to rivals
+"Customer Satisfaction 
+Track delivery performance 
+Revenue generation of whole system"
+"1. User Demographics - It will provide insights about user ordering pattern and purchase power
+2. Ease of Use - Ease of finding desired item in catalogue, placing order and in general use of application/service. How much time user is spending on placing the order.
+3. Trust - Do user trust the application/service to deliver the correct products in a safe way. This could be monitored using rating and reviews."
+"1. A metric that indicates the customer rating on y-axis and number of customers on x-axis hourly, daily and monthly basis to identify if the graph pattern spikes or drops in a specific time in a day or specific day in a week and explore the reason causing that pattern.
+
+2. A metric that plots the satisfaction of customer on the taste of dish and observe if any dish is not liked by customer and discuss with chef on the alternative.
+
+3. A metric that plots the delivery satisfaction which represents if the delivery was done with in estimated time. If not to identify the delay and understand the reason causing delay and re-design the estimated time predictor algorithm.
+
+4. A metric that plots the SLA to address the issues within the SLA and trigger an alarm if any thing is missed to resolve.
+
+5. A metric that measures the customers count on monthly basis and decide the target for next month by implementing great customer acquisition ideas.
+
+6. A metric that plots the quality over many attributes where it should be constant or increasing and never compromise on if downward trend is observed."
+"Average order value
+No. of repeat orders
+Order value by geographic location
+Order value by age 
+Average delivery time "
+"1). Turn Around Time ( i.e Order Received to Order Delivered)
+2). Issues Resolution time 
+3). Customer Feedback Regarding 
+
+(1. Delivery Boy Behaviour. (Quantitative Measure).
+2. Food  Packaging (Quantitative Measure)
+3. Ease of Payment ( Modes Available)
+4. Rate Reasonability (Quantitative Measure)
+5. Ease of Application Usage.
+6. Overall Service Satisfaction
+)
+
+4). New Partners (Resturants/Delivery Guy) On-boarding time.
+5). Attrition Management (Quantitative Management)
+6). Cash Flow Management ( Quantitative Measurement)"
+"1) Customer Feedback/Ratings for various partner restaurants 
+2) Relation between discounts provided and sales and optimization of the same
+3) Average delivery time/order"
+"1.other than equipped with facilities competetive brands are providing, target Innovative restaurants in local staple and Vegan restaurants also
+2. Cover unreached areas and build up startegy for it. 
+3. Instead of absolute freebies, keep mandatory price of some value. "
+On time delivery, quality should be good,Parcel should be neat and clean, packs should be environment compatible and no tips should be asked.
+"User demographic condition would be one of the factors to he considered to identify the purchase power and the peopleâs choice of product of the locality.
+
+Product demand testing should be considered for rectifying the product or services thatâll be of choice in those areas
+
+Trust factor is important to augment the service or product sales which will demonstrate the amount of public which relies on quickdrop in order to complete their order."
+Turn around time, network spread, assurance of food quality 
+"1. Gross profit
+2. Food cost percentage
+3. Employee turnover rate 
+4. Inventory turnover rate
+5. Customer retention rate"
+"1) The 3Vs of data - volume, velocity and variety of data related to the business
+2)focus on query, collection of data, analysis of data and preparing a report on the data
+3) Insights on data can be covered by asking crucial questions like customer retention rate, reason for customer opting out, etc and monitoring the success rate"
+Number of orders per area per day, feedback, scheduled time delivery
+"1. Time to deliver 
+2. Geographical representation of area per number of orders delivered and number of average cost of total orders
+3. Reviews sentiments"
+"1. No. of new customers and repeated customers. 
+2. Products which are sold most and products which are bought by repeated customers repeatedly.
+3. Products which gives most profit and the products which gives least profit. 
+4. Area from where most orders are places and the area from where least orders placed. 
+5. Most repeated restaurants with higher customer satisfaction and the restaurants with least orders low satisfaction and vice-versa. "
+Delivery service aggregator, full stack model, restaurant to consumer model ,food delivery business model
+"Customer retention
+Expansion rate
+Company's revenue 
+Most and least used services/products
+Idle resource time
+Demographic based division of products and customers/ target customers
+Running cost, operation cost and net profit
+ 
+"
